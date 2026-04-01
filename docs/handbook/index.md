@@ -17,3 +17,4 @@
 - 贡献流程：`CONTRIBUTING.md`
 - 设计蓝图：`docs/design/handbook-design.md`
 - 执行计划：`docs/plan/handbook-execution-plan.md`
+- 来源索引台账：[Source Index](./source-index.md)
