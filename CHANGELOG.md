@@ -33,3 +33,4 @@ Each entry should include:
   - 新增证据分级（A/B/C）与索引要求，明确禁止无来源想象性断言。
   - 强化规则信息严谨性，要求规则内容标注版本与章节/页码。
   - 新增来源索引台账 `docs/handbook/source-index.md`，用于统一追踪摘录与规则依据。
+  - 新增样板条目 `docs/handbook/gods/great-old-ones.md`（克苏鲁），示范“文学模块 + 证据索引 + 待考标注”写法。

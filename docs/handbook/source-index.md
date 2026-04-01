@@ -15,6 +15,10 @@
 |---|---|---|---|---|---|---|---|
 | SRC-OT-001 | 原典 | A | The Call of Cthulhu | H. P. Lovecraft | 1928 (Weird Tales) | [待补] | 示例条目 |
 | SRC-RG-001 | 规则书 | B | Call of Cthulhu Roleplaying Game | Chaosium | [待补版本] | [待补页码] | 示例条目 |
+| SRC-OT-CC-OPEN | 原典 | A | The Call of Cthulhu | H. P. Lovecraft | Weird Tales, 1928 | Opening paragraph (`"The most merciful thing in the world..."`) | 克苏鲁样板条目摘录 |
+| SRC-OT-CC-CHANT | 原典 | A | The Call of Cthulhu | H. P. Lovecraft | Weird Tales, 1928 | Chapter II, Legrasse cult chant (`"Ph'nglui mglw'nafh..."`) | 克苏鲁样板条目摘录 |
+| SRC-RG-COC-7E | 规则书 | B | Call of Cthulhu Keeper Rulebook | Chaosium | 7th Edition, 2014 | [待补章节/页码] | 用于规则与玩法语境，补录时必须补页码 |
+| SRC-ADP-MYTH-GENERAL | 研究/归纳 | C | Mythos adaptation patterns (film/game/TRPG) | Editorial synthesis | Ongoing | [主题归纳，非单一原典] | 仅作二创观察补充，不覆盖 A/B 证据 |
 
 ## Evidence Levels
 
