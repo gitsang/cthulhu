@@ -2,9 +2,9 @@
 
 ## 子域
 
-- [外神 Outer Gods](./outer-gods.md) (planned)
+- [外神 Outer Gods](./outer-gods/index.md)
 - [旧日支配者 Great Old Ones](./great-old-ones/index.md)
-- [旧神 Elder Gods](./elder-gods.md) (planned)
+- [旧神 Elder Gods](./elder-gods/index.md)
 
 ## 迁移范围（来自 readme.md）
 

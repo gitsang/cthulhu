@@ -34,3 +34,4 @@ Each entry should include:
   - 强化规则信息严谨性，要求规则内容标注版本与章节/页码。
   - 新增来源索引台账 `docs/handbook/source-index.md`，用于统一追踪摘录与规则依据。
   - 将旧日支配者改为目录结构：`docs/handbook/gods/great-old-ones/index.md` + `docs/handbook/gods/great-old-ones/cthulhu.md`。
+  - 将其余同类子域统一目录化：`outer-gods/`、`elder-gods/`、`independent-races/`、`servitor-races/`、`unique-entities/`、`lovecraft-country/`、`dreamlands/`、`cosmic-sites/`。

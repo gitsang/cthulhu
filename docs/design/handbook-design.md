@@ -35,21 +35,29 @@ docs/
     index.md
     gods/
       index.md
-      outer-gods.md
+      outer-gods/
+        index.md
       great-old-ones/
         index.md
         cthulhu.md
-      elder-gods.md
+      elder-gods/
+        index.md
     creatures/
       index.md
-      independent-races.md
-      servitor-races.md
-      unique-entities.md
+      independent-races/
+        index.md
+      servitor-races/
+        index.md
+      unique-entities/
+        index.md
     locations/
       index.md
-      lovecraft-country.md
-      dreamlands.md
-      cosmic-sites.md
+      lovecraft-country/
+        index.md
+      dreamlands/
+        index.md
+      cosmic-sites/
+        index.md
     tomes/
       index.md
     artifacts/
