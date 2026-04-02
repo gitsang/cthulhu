@@ -1,3 +1,15 @@
 # 幻梦境 Dreamlands
 
-> Placeholder: entries will be migrated here.
+> 说明：幻梦境条目强调“梦境逻辑”与“现实调查线”的互相映照。
+
+## 条目（首批）
+
+- 塞勒菲斯 (Celephais)（待新建独立条目）
+- 乌尔塔尔 (Ulthar)（待新建独立条目）
+- 卡达斯 (Kadath)（待新建独立条目）
+- 恩古诺克山脉 (Mountains of Ngranek)（待新建独立条目）
+
+## 编排建议
+
+- 进入方式需区分“睡眠路径”“仪式路径”“异常通道”。
+- 与现实地点形成镜像关系时，优先添加交叉引用。
