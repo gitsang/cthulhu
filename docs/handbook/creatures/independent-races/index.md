@@ -1,3 +1,5 @@
 # 独立种族 Independent Races
 
-> Placeholder: entries will be migrated here.
+## 条目
+
+- [深潜者 (Deep Ones)](./deep-ones.md)

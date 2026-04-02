@@ -4,12 +4,12 @@
 
 ## Domains
 
-- [神祇 Gods](./gods/index.md)
-- [神话生物 Creatures](./creatures/index.md)
-- [地点 Locations](./locations/index.md)
-- [禁忌典籍 Tomes](./tomes/index.md) (planned)
-- [神话遗物 Artifacts](./artifacts/index.md) (planned)
-- [仪式与法术 Rituals](./rituals/index.md) (planned)
+- [神祇 (Gods)](./gods/index.md)
+- [神话生物 (Creatures)](./creatures/index.md)
+- [地点 (Locations)](./locations/index.md)
+- [禁忌典籍 (Tomes)](./tomes/index.md) (planned)
+- [神话遗物 (Artifacts)](./artifacts/index.md) (planned)
+- [仪式与法术 (Rituals)](./rituals/index.md) (planned)
 
 ## Conventions
 

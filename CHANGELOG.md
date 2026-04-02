@@ -35,3 +35,6 @@ Each entry should include:
   - 新增来源索引台账 `docs/handbook/source-index.md`，用于统一追踪摘录与规则依据。
   - 将旧日支配者改为目录结构：`docs/handbook/gods/great-old-ones/index.md` + `docs/handbook/gods/great-old-ones/cthulhu.md`。
   - 将其余同类子域统一目录化：`outer-gods/`、`elder-gods/`、`independent-races/`、`servitor-races/`、`unique-entities/`、`lovecraft-country/`、`dreamlands/`、`cosmic-sites/`。
+  - 新增外神正式条目 `docs/handbook/gods/outer-gods/nyarlathotep.md`，采用连贯叙事 + 脚注来源写法。
+  - 更新 `docs/handbook/source-index.md`，补充奈亚拉托提普相关来源索引。
+  - 将已落地条目的“相关条目”改为可点击 md 链接，并为缺失目标新增占位文档（如 `rlyeh.md`、`deep-ones.md`、`hastur.md` 等）。

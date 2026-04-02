@@ -2,9 +2,9 @@
 
 ## 子域
 
-- [独立种族 Independent Races](./independent-races/index.md)
-- [仆从种族 Servitor Races](./servitor-races/index.md)
-- [唯一存在 Unique Entities](./unique-entities/index.md)
+- [独立种族 (Independent Races)](./independent-races/index.md)
+- [仆从种族 (Servitor Races)](./servitor-races/index.md)
+- [唯一存在 (Unique Entities)](./unique-entities/index.md)
 
 ## 迁移范围（来自 readme.md）
 

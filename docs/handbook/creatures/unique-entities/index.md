@@ -1,3 +1,5 @@
 # 唯一存在 Unique Entities
 
-> Placeholder: entries will be migrated here.
+## 条目
+
+- [黄衣之王 (The King in Yellow)](./king-in-yellow.md)

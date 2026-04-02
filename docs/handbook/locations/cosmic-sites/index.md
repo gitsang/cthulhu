@@ -1,3 +1,5 @@
 # 宇宙地点 Cosmic Sites
 
-> Placeholder: entries will be migrated here.
+## 条目
+
+- [拉莱耶 (R'lyeh)](./rlyeh.md)

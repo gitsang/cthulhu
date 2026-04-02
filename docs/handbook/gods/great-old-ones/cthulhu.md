@@ -1,4 +1,4 @@
-# 克苏鲁 Cthulhu
+# 克苏鲁 (Cthulhu)
 
 分类：旧日支配者
 
@@ -47,9 +47,9 @@
 
 ## 相关条目
 
-- 拉莱耶 (R'lyeh)
-- 深潜者 (Deep Ones)
-- 达贡 (Dagon)
+- [拉莱耶 (R'lyeh)](../../locations/cosmic-sites/rlyeh.md)
+- [深潜者 (Deep Ones)](../../creatures/independent-races/deep-ones.md)
+- [达贡 (Dagon)](./dagon.md)
 
 ## 参考来源
 

@@ -19,6 +19,10 @@
 | SRC-OT-CC-CHANT | 原典 | A | The Call of Cthulhu | H. P. Lovecraft | Weird Tales, 1928 | Chapter II, Legrasse cult chant (`"Ph'nglui mglw'nafh..."`) | 克苏鲁样板条目摘录 |
 | SRC-RG-COC-7E | 规则书 | B | Call of Cthulhu Keeper Rulebook | Chaosium | 7th Edition, 2014 | [待补章节/页码] | 用于规则与玩法语境，补录时必须补页码 |
 | SRC-ADP-MYTH-GENERAL | 研究/归纳 | C | Mythos adaptation patterns (film/game/TRPG) | Editorial synthesis | Ongoing | [主题归纳，非单一原典] | 仅作二创观察补充，不覆盖 A/B 证据 |
+| SRC-OT-NYA-01 | 原典 | A | Nyarlathotep | H. P. Lovecraft | 1920 | Full text (`n.aspx`) | 奈亚拉托提普条目主叙事来源 |
+| SRC-OT-NYA-02 | 原典 | A | Nyarlathotep | H. P. Lovecraft | [待补] | Wikisource text | 奈亚拉托提普条目校对来源 |
+| SRC-OT-WID-01 | 原典 | A | The Whisperer in Darkness | H. P. Lovecraft | 1930 | Full text (`wid.aspx`) | 奈亚拉托提普相关作品来源 |
+| SRC-OT-HD-01 | 原典 | A | The Haunter of the Dark | H. P. Lovecraft | 1935 | Full text (`hd.aspx`) | 奈亚拉托提普相关作品来源 |
 
 ## Evidence Levels
 

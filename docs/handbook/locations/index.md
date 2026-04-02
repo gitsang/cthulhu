@@ -2,9 +2,9 @@
 
 ## 子域
 
-- [洛夫克拉夫特地区 Lovecraft Country](./lovecraft-country/index.md)
-- [幻梦境 Dreamlands](./dreamlands/index.md)
-- [宇宙地点 Cosmic Sites](./cosmic-sites/index.md)
+- [洛夫克拉夫特地区 (Lovecraft Country)](./lovecraft-country/index.md)
+- [幻梦境 (Dreamlands)](./dreamlands/index.md)
+- [宇宙地点 (Cosmic Sites)](./cosmic-sites/index.md)
 
 ## 迁移范围（来自 readme.md）
 
