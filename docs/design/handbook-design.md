@@ -36,7 +36,9 @@ docs/
     gods/
       index.md
       outer-gods.md
-      great-old-ones.md
+      great-old-ones/
+        index.md
+        cthulhu.md
       elder-gods.md
     creatures/
       index.md
