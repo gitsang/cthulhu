@@ -1,13 +1,16 @@
 # 仪式与法术 Rituals Index
 
-> 说明：仪式域用于收录“可执行流程型”内容。该域必须明确前置条件、流程与失败后果。
+> 说明：仪式域用于收录"可执行流程型"内容。该域必须明确前置条件、流程与失败后果。
 
-## 首批条目
+## 条目
+
+- [深海献祭仪式 (Deep Sea Sacrifice Ritual)](./deep-sea-sacrifice.md)
+- [黄印传播仪式 (Yellow Sign Propagation Ritual)](./yellow-sign-propagation.md)
+- [梦境通道开启仪式 (Dream Gate Opening Ritual)](./dream-gate-opening.md)
+
+## 待补录
 
 - 克苏鲁相关唤醒仪式（待考，需版本标注）
-- 深海献祭仪式（待新建独立条目）
-- 黄印传播型仪式（待新建独立条目）
-- 梦境通道开启仪式（待新建独立条目）
 - 召唤与驱逐对照流程（待整理）
 
 ## 字段要求

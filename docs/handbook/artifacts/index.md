@@ -5,11 +5,11 @@
 ## 条目
 
 - [银钥匙 (The Silver Key)](./silver-key.md)
+- [闪耀偏方三八面体 (Shining Trapezohedron)](./shining-trapezohedron.md)
+- [黄印 (The Yellow Sign)](./yellow-sign.md)
 
 ## 待补录
 
-- 闪耀偏方三八面体 (Shining Trapezohedron)（待新建独立条目）
-- 黄印 (The Yellow Sign)（待新建独立条目）
 - 克苏鲁神像系遗物（待整理）
 - 深海祭器与海祭器具（待整理）
 

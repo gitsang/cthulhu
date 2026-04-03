@@ -5,11 +5,11 @@
 ## 条目
 
 - [《死灵之书》 (Necronomicon)](./necronomicon.md)
+- [《埃波恩之书》 (Book of Eibon)](./book-of-eibon.md)
+- [《无名祭祀书》 (Unaussprechlichen Kulten)](./unaussprechlichen-kulten.md)
 
 ## 待补录
 
-- 《埃波恩之书》 (Book of Eibon)（待新建独立条目）
-- 《无名祭祀书》 (Unaussprechlichen Kulten)（待新建独立条目）
 - 《玄君七章秘经》 (De Vermis Mysteriis)（待新建独立条目）
 - 《伊波恩手稿》相关版本流（待考）
 
