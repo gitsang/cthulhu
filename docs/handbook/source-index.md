@@ -23,6 +23,12 @@
 | SRC-OT-NYA-02 | 原典 | A | Nyarlathotep | H. P. Lovecraft | [待补] | Wikisource text | 奈亚拉托提普条目校对来源 |
 | SRC-OT-WID-01 | 原典 | A | The Whisperer in Darkness | H. P. Lovecraft | 1930 | Full text (`wid.aspx`) | 奈亚拉托提普相关作品来源 |
 | SRC-OT-HD-01 | 原典 | A | The Haunter of the Dark | H. P. Lovecraft | 1935 | Full text (`hd.aspx`) | 奈亚拉托提普相关作品来源 |
+| SRC-OT-DH-01 | 原典 | A | The Dunwich Horror | H. P. Lovecraft | 1929 (Weird Tales) | Full text (`dh.aspx`) | 尤格·索托斯条目主叙事来源 |
+| SRC-OT-TGSK-01 | 原典 | A | Through the Gates of the Silver Key | H. P. Lovecraft & E. Hoffmann Price | 1934 (Weird Tales) | Full text (`tgsk.aspx`) | 尤格·索托斯相关作品来源 |
+| SRC-OT-LAST-01 | 原典 | A | The Last Test | Clark Ashton Smith & H. P. Lovecraft | 1928 (Weird Tales) | Full text (Wikisource) | 莎布·尼古拉斯主叙事来源 |
+| SRC-OT-SN-WIKI | 研究/归纳 | C | Shub-Niggurath — H. P. Lovecraft Wiki | Community | Ongoing | [神话体系归纳] | 莎布·尼古拉斯补充参考，仅作补充 |
+| SRC-OT-DQ-01 | 原典 | A | The Dream-Quest of Unknown Kadath | H. P. Lovecraft | 1943 (posthumous) | Full text (`dq.aspx`) | 阿萨托斯条目主叙事来源 |
+| SRC-OT-AZ-01 | 原典 | A | Azathoth | H. P. Lovecraft | 1938 (fragment) | Full text (`a.aspx`) | 阿萨托斯条目气氛参考 |
 
 ## Evidence Levels
 

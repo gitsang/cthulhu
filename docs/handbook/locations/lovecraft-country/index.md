@@ -5,7 +5,7 @@
 ## 条目（首批）
 
 - 阿卡姆 (Arkham)（待新建独立条目）
-- 敦威治 (Dunwich)（待新建独立条目）
+- [敦威治 (Dunwich)](./dunwich.md)
 - 印斯茅斯 (Innsmouth)（待新建独立条目）
 - 金斯波特 (Kingsport)（待新建独立条目）
 - 米斯卡塔尼克大学 (Miskatonic University)（待新建独立条目）
