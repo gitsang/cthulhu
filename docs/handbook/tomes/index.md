@@ -1,10 +1,13 @@
 # 禁忌典籍 Tomes Index
 
-> 说明：典籍域用于收录“知识代价型”条目，优先记录获取方式、阅读代价与可核验来源。
+> 说明：典籍域用于收录"知识代价型"条目，优先记录获取方式、阅读代价与可核验来源。
 
-## 首批条目
+## 条目
 
-- 《死灵之书》 (Necronomicon)（待新建独立条目）
+- [《死灵之书》 (Necronomicon)](./necronomicon.md)
+
+## 待补录
+
 - 《埃波恩之书》 (Book of Eibon)（待新建独立条目）
 - 《无名祭祀书》 (Unaussprechlichen Kulten)（待新建独立条目）
 - 《玄君七章秘经》 (De Vermis Mysteriis)（待新建独立条目）

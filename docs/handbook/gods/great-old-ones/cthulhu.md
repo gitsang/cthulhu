@@ -50,6 +50,7 @@
 - [拉莱耶 (R'lyeh)](../../locations/cosmic-sites/rlyeh.md)
 - [深潜者 (Deep Ones)](../../creatures/independent-races/deep-ones.md)
 - [达贡 (Dagon)](./dagon.md)
+- [修格斯 (Shoggoths)](../../creatures/servitor-races/shoggoths.md)
 
 ## 参考来源
 

@@ -1,3 +1,57 @@
 # 敦威治 (Dunwich)
 
-> Placeholder: entry content will be added in later migration.
+分类：洛夫克拉夫特地区
+
+危险评级：高（涉及旧日支配者相关叙事）
+
+## 别名/称号
+
+- 被遗忘的乡镇 (The Forgotten Township)
+- 尤格·索托斯之地 (Land of Yog-Sothoth)
+
+## 简介
+
+敦威治是洛夫克拉夫特笔下最荒凉的新英格兰乡镇之一，位于米斯卡塔尼克河谷上游的偏远山区。与阿卡姆的学术氛围不同，敦威治的恐怖来自"退化"与"禁忌繁殖"——这里的人们在孤立中逐渐失去了文明的约束力，而某些家族则主动拥抱了更古老的、更危险的力量。
+
+## 关键特征
+
+- 地理隔离：位于偏远山区，交通不便，与外界联系稀少。
+- 家族诅咒：怀特利家族 (Whateley) 通过禁忌仪式与尤格·索托斯建立联系，产下了非人后代。
+- 山地法阵与古老石环：周边山区散布着前殖民时代的祭祀遗迹。
+
+## 调查与进入条件
+
+- 进入路径通常为沿米斯卡塔尼克河谷溯流而上。
+- 夜间牲畜异常死亡、非人蹄印是常见预警信号。
+- 旧农舍地窖可能传来不可见巨物的撞击声。
+
+## 关联势力
+
+- 怀特利家族 (Whateley Family)
+- [尤格·索托斯 (Yog-Sothoth)](../../gods/outer-gods/yog-sothoth.md)
+- 米斯卡塔尼克大学调查队
+
+## 出现作品
+
+- 《敦威治恐怖事件》 (The Dunwich Horror, H. P. Lovecraft)
+
+## 经典故事脉络
+
+- 《敦威治恐怖事件》讲述了一个关于"门被打开后会发生什么"的故事。怀特利家族的老头通过禁忌仪式与尤格·索托斯交合，产下一对双胞胎——一个以人形示人（威尔伯·怀特利），另一个则完全不可见且体型不断膨胀。威尔伯试图进入米斯卡塔尼克大学图书馆获取《死灵之书》中的驱逐咒文，但被图书馆的狗咬死。与此同时，敦威治的山中被一个不可见的巨物肆虐。最终，两位教授通过诵读咒文使怪物显形并将其消灭。[^1]
+
+## 常见二创路径
+
+- TRPG 模组中常作为"偏远乡镇调查"的经典场景模板。
+- "禁忌家族"母题被广泛用于后续恐怖文学与影视作品中。
+
+## 相关条目
+
+- [尤格·索托斯 (Yog-Sothoth)](../../gods/outer-gods/yog-sothoth.md)
+- [阿卡姆 (Arkham)](./arkham.md)
+- [米斯卡塔尼克大学 (Miskatonic University)](./miskatonic-university.md)
+
+## 参考来源
+
+[^1]: [The Dunwich Horror (H. P. Lovecraft Archive)](https://www.hplovecraft.com/writings/texts/fiction/dh.aspx)
+
+- 原典：《敦威治恐怖事件》 (The Dunwich Horror, H. P. Lovecraft, 1929)

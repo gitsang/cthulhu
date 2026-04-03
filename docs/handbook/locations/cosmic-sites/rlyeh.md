@@ -34,6 +34,7 @@
 - [克苏鲁 (Cthulhu)](../../gods/great-old-ones/cthulhu.md)
 - [达贡 (Dagon)](../../gods/great-old-ones/dagon.md)
 - [深潜者 (Deep Ones)](../../creatures/independent-races/deep-ones.md)
+- [印斯茅斯 (Innsmouth)](../../locations/lovecraft-country/innsmouth.md)
 
 ## 参考来源
 
